@@ -1,5 +1,7 @@
 [samurai-frog.html](https://github.com/user-attachments/files/26449072/samurai-frog.html)
 <!DOCTYPE html>
+![1000083445](https://github.com/user-attachments/assets/600649f1-bfc1-408c-966d-d55add24735e)
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
