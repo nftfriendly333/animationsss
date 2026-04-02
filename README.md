@@ -1,4 +1,3 @@
-![1000083445](https://github.com/user-attachments/assets/be6ccb6b-2d6c-47e7-be81-6964923ee03f)
 [samurai-frog.html](https://github.com/user-attachments/files/26449072/samurai-frog.html)
 <!DOCTYPE html>
 <html lang="en">
